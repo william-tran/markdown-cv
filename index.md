@@ -58,8 +58,7 @@ Showing off the capabilities of our CommonJS and Promises A+ compliant JavaScrip
 
 ## Patents
 
-- One (1) pending, in the field of application security.
-
+- [Invocation Path Security in Distributed Systems](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2018144581) issued 2018-08-09 
 
 ## Employment
 
