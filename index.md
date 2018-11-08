@@ -58,7 +58,10 @@ Showing off the capabilities of our CommonJS and Promises A+ compliant JavaScrip
 
 ## Patents
 
-- [Invocation Path Security in Distributed Systems](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2018144581) issued 2018-08-09 
+`2018-08-09`
+__[Invocation Path Security in Distributed Systems](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2018144581)__
+
+- This patent covers some of the material in my __Beyond OAuth2: End to End Microservice Security__ presentation. An open source proof of concept can be found at https://github.com/william-tran/microservice-security-jose, licensed under Apache 2.0. 
 
 ## Employment
 
