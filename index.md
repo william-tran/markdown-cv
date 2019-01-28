@@ -14,7 +14,7 @@ Not quite internet famous.
 
 ## Bio
 
-William Tran has been helping startups and enterprises harness the power of the Spring Framework for a decade. Currently driving the transportation transformation with [Autonomic](http://autonomic.ai/), he was previously building products for [Pivotal Cloud Foundry](https://pivotal.io/platform) and made contributions to the [Spring Framework](https://spring.io/) and [Netflix OSS](http://netflix.github.io/). 
+William Tran has been helping startups and enterprises harness the power of the Spring Framework for over a decade. Currently driving the transportation transformation with [Autonomic](http://autonomic.ai/), he was previously building products for [Pivotal Cloud Foundry](https://pivotal.io/platform) and made contributions to the [Spring Framework](https://spring.io/) and [Netflix OSS](http://netflix.github.io/). 
 
 
 ### Specialized in
